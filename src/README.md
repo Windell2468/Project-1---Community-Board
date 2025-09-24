@@ -47,6 +47,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+The challenge was to set up a Card. It was quite challenging to determine how to arrange the columns and rows to create desktop and mobile layouts of the correct sizes.
 
 ## License
 
