@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/G9AcT99' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/G9AcT99' title='Video Walkthrough' width='20px' alt='Video Walkthrough' />
 'https://imgur.com/a/G9AcT99'
 
 <!-- Replace this with whatever GIF tool you used! -->
